@@ -1,4 +1,6 @@
-
+/*Write the Java method below that takes two integer arrays A and B and returns true only if the 
+values in A appear consecutively in B. You may assume all values in A are distinct. However, the values in B 
+may or may not include duplicates. */
 public class Problem5 {
 
     public static void main(String[] args) {

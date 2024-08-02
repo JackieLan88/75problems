@@ -1,4 +1,6 @@
-
+/*The method receives two parameters, an integer array A and an integer variable b. The method returns a new 
+array (do not change A) that is identical to A except that all cells that contain the value stored in the variable b  
+are no longer present.  */
 public class Problem9 {
 
     public static void main(String[] args) {

@@ -1,4 +1,6 @@
-
+/*Write a Java program that prompts the user to enter three integers a, b, and c.  As output the 
+program is to display the number of integers entered by the user that are odd.  The output statement must 
+exactly match the sample output statements provided below. */
 import java.util.Scanner;
 
 public class Problem6 {

@@ -1,4 +1,6 @@
-
+/*Write the method  public static int rangeProduct(int a, int b).  Assume 
+that 𝑎 < 𝑏.  Your method must compute and return the product of the integers in the range from 𝑎 to 𝑏.  For 
+example, if 𝑎 = 3 and 𝑏 = 6, your method would compute and return the product 3 × 4 × 5 × 6 = 360. */
 import java.util.Scanner;
 
 public class Problem11 {

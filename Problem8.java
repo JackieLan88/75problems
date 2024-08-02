@@ -1,4 +1,9 @@
-
+/*The method receives two integer arrays A and B as parameters. Both A  and  B are already in sorted order from 
+lowest to highest.  Array A has no repeated integers, and array B has no repeated integers, but there may be 
+integers that appear in both array A and array B.  Arrays A and B do not necessarily have the same length. 
+ 
+The method is to return the number of values that appear in both array A and array B.  For example, if A and B 
+were the arrays below, the return value would be 3, since the arrays have 3 values in common: 15, 22, and 93.  */
 public class Problem8 {
 
     public static void main(String[] args) {
